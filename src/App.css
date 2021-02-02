@@ -105,8 +105,8 @@
 }
 .icon{
   display: flex;
-  width: 2rem;
-  height: 2rem;
+  width: 1.2rem;
+  height: 1.2rem;
   padding: 0;
   margin: 0!important;
   font-family: 'Lexend Zetta', sans-serif;
@@ -240,14 +240,14 @@
   border: none;
   text-decoration: none;
 }
-.b1:focus{
+.b11:focus, .b12:focus, .b13:focus, .b14:focus, .b15:focus{
   outline: none;
   cursor: pointer;
 }
 .b21{
   font-family: 'Prata', serif;
   margin: 0;
-  padding: .5rem;
+  padding: 1rem;
   background-color: #1687a7;
   color: white;
   border: none;
@@ -256,7 +256,7 @@
 .b22{
   font-family: 'Prata', serif;
   margin: 0;
-  padding: .5rem;
+  padding: 1rem;
   background-color: #350b40;
   color: white;
   border: none;
@@ -265,7 +265,7 @@
 .b23{
   font-family: 'Prata', serif;
   margin: 0;
-  padding: .5rem;
+  padding: 1rem;
   background-color: #9DAD7F;
   color: white;
   border: none;
@@ -274,7 +274,7 @@
 .b24{
   font-family: 'Prata', serif;
   margin: 0;
-  padding: .5rem;
+  padding: 1rem;
   background-color: #276678;
   color: white;
   border: none;
@@ -283,13 +283,13 @@
 .b25{
   font-family: 'Prata', serif;
   margin: 0;
-  padding: .5rem;
+  padding: 1rem;
   background-color: #91684a;
   color: white;
   border: none;
   border-radius: .3rem;
 }
-.b2:focus{
+.b21:focus, .b22:focus, .b23:focus, .b24:focus, .b25:focus{
   outline: none;
   cursor: pointer;
 }
